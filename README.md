@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 
 Hi, I'm Roger! I am a Machine Learning Scientist solving problems in healthcare and biotech. <br>
-
 🎓 I've obtained my Master's degree in Biomedical Data Science at Duke University.<br>
-
 📚 I love learning new technology and skills of ML, and am currently learning about large language models and generative models.
 
 
-## 🧠 That I know and use
+## Professional Skills
 ### Programming Langues
 - Python
 - R
@@ -37,7 +35,7 @@ Hi, I'm Roger! I am a Machine Learning Scientist solving problems in healthcare 
 - AWS
 - Jupyter Notebook
 
-### Tool
+### Tools
 - Numpy
 - Pandas
 - Scikit-learn
