@@ -7,7 +7,7 @@ Hi, I'm Roger! I am a Machine Learning Scientist solving problems in healthcare 
 😄 Pronouns: He/Him
 
 ## 🔗 Socials
-- LinkedIn: https://www.linkedin.com/in/yuming-chang-910/
+- [LinkedIn](https://www.linkedin.com/in/yuming-chang-910/)
 
 ## Professional Skills
 ### Programming Langues
