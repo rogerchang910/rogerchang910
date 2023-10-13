@@ -1,8 +1,7 @@
 ## Hi, I'm Roger! 👋
 Hi, I'm Roger! I am a Machine Learning Scientist solving problems in healthcare and biotech. I love learning new technology and skills of ML.<br>
 🎓 I've obtained my Master's degree in Biomedical Data Science at Duke University.<br>
-🌱 I'm currently learning about large language models and generative models.<br>
-💬 Ask me about music, guitar, or basketball.<br>
+🌱 I'm currently learning about large language models and generative AI.<br>
 📫 Reach me: rogerchang@alumni.duke.edu<br>
 😄 Pronouns: He/Him
 
