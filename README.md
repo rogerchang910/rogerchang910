@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Roger! 👋
 
 <!--
 **rogerchang910/rogerchang910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
 Hi, I'm Roger! I am a Machine Learning Scientist solving problems in healthcare and biotech. 
 🎓 I've obtained my Master's degree in Biomedical Data Science at Duke University.
